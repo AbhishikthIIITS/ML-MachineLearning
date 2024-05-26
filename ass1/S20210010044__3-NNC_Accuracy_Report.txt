@@ -1,0 +1,13 @@
+Name:- Abhishikth Boda
+Roll Number:- S20210010044
+Course:- Machine Learning
+Section:- 2
+Assignment Number:- 1
+Date:- 10th August 2023
+
+
+3-Nearest Neighbor Classifier (3-NNC)
+
+3-NNC Accuracy: 0.377937
+3-NNC Correct Predictions: 370
+3-NNC Total Predictions: 979
