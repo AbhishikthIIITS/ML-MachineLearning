@@ -1,3 +1,20 @@
+
+# Question :-
+
+# generate a dataset named c_x, that consists of n=400 2-dimensional data points. these points form equally sized groups. 
+# each group contains vectors that are sampled from Gaussian distributions with means m1=[0,0],m2=[10,0],m3=[0,9] and m4=[9,8] respectively,
+# and respective covariance matrices are s_1=I,s_2=[1 0.2 0.2 1.5], s_3=[1 0.4 0.4 1.1] and s_4=[0.3 0.2 0.2 0.5],
+# where I is a 2x2 identity matrix.
+
+# Apply the k-mean algorithm on dataset c_x for different values of k ranging from 2-5. Using euclidean distance measure.
+# Initialize the initial centroids randomly.
+
+# plot the dataset and centroids for each k value.
+
+# Note :- convergence for k means can be decided as a maximum of 100 iterations or until there is no update
+# in cluster centroid assignment whichever is earlier.
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
